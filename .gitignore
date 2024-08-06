@@ -2,3 +2,4 @@
 .pydevproject
 venv
 .env
+__pycache__
